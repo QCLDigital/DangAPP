@@ -22,3 +22,4 @@ cd ios && pod install && cd ..(npx pod-install ios) (pod install --project-direc
 npx react-native start
 npx react-native run-android
 npx react-native run-ios
+---react-native-navigation---
